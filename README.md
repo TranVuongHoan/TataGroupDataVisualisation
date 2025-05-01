@@ -77,7 +77,6 @@
 ![Data](image/tata_dashboard.png)
 ![Data](image/tata_dashboard_2.png)
 ![Data](image/tata_dashboard_3.png)
-![Data](image/tata_dashboard_4.png)
 
 **Recommendations:**  
 - Focus on high-value customers/countries for targeted marketing.  
