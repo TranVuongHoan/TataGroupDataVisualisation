@@ -74,10 +74,10 @@
 3. **Product Trends:** POSTAGE and decorative items (e.g., CAKESTAND) are top sellers.  
 4. **Weekly Pattern:** Sundays show minimal sales, suggesting operational closures or low demand.  
 
-![Data](File/tata_dashboard.png)
-![Data](File/tata_dashboard_2.png)
-![Data](File/tata_dashboard_3.png)
-![Data](File/tata_dashboard_4.png)
+![Data](image/tata_dashboard.png)
+![Data](image/tata_dashboard_2.png)
+![Data](image/tata_dashboard_3.png)
+![Data](image/tata_dashboard_4.png)
 
 **Recommendations:**  
 - Focus on high-value customers/countries for targeted marketing.  
