@@ -1,4 +1,4 @@
-<img width="954" height="672" alt="image" src="https://github.com/user-attachments/assets/778a1cf6-dffa-4d41-a3d8-92ad625f64ad" /># TataGroupDataVisualisation
+# TataGroupDataVisualisation
 
 **Period:** 01/12/2010 to 09/12/2011  
 
